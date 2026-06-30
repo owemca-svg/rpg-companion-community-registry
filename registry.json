@@ -1824,5 +1824,18 @@
     "github_repo": "sychicburrito/Playable-leopard-gecko-race",
     "repo_url": "https://sychicburrito.github.io/Playable-leopard-gecko-race/",
     "has_system": false
+  },
+  {
+    "name": "sword-dancer-class",
+    "description": "adding a sword dancer of elistraee class",
+    "tags": [
+      "5e",
+      "homebrew",
+      "faerun"
+    ],
+    "stars": 0,
+    "github_repo": "KyteFox/sword-dancer-class",
+    "repo_url": "https://KyteFox.github.io/sword-dancer-class/",
+    "has_system": false
   }
 ]
